@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @LabibaTahsin
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
+- 👀 I’m interested in UI and Graphics Design
+- 🌱 I’m currently learning Frontend Technologies
+- 💞️ I’m looking to collaborate on any startup
 - 📫 ping me here if needed
 
 <!---
